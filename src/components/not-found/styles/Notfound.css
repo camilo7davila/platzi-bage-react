@@ -1,0 +1,15 @@
+
+.container__box {
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__box img{
+    width: 80%;
+    height: 80%;
+    object-position: center;
+    object-fit: contain;
+}

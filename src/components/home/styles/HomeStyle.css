@@ -1,0 +1,8 @@
+
+
+.container__main {
+    height: calc( 100vh - 60px );
+    width: 100%;
+    background: url('../../../images/stars.svg'), #1b1b25 ;
+    color: white;
+}

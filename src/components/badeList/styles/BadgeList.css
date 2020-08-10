@@ -1,0 +1,19 @@
+.list-unstyled{
+    list-style-type: none;
+}
+
+li {
+    background-color: white;
+    padding: 1rem;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    border-radius: 5px;
+}
+
+.avatar {
+    border-radius: 50%;
+    background: #a3a3a3;
+    margin-right: 0.5rem;
+    width: 80px;
+    height: 80px;
+}
